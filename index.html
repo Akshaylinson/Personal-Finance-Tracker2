@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Finance Tracker</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h2>📊 Personal Finance Tracker</h2>
+
+        <!-- Input Form -->
+        <div class="input-section">
+            <input type="text" id="desc" placeholder="Description">
+            <input type="number" id="amount" placeholder="Amount">
+            <select id="type">
+                <option value="income">Income</option>
+                <option value="expense">Expense</option>
+            </select>
+            <select id="category">
+                <option value="Food">Food</option>
+                <option value="Rent">Rent</option>
+                <option value="Transport">Transport</option>
+                <option value="Utilities">Utilities</option>
+                <option value="Entertainment">Entertainment</option>
+                <option value="Healthcare">Healthcare</option>
+                <option value="Shopping">Shopping</option>
+                <option value="Investment">Investment</option>
+                <option value="Other">Other</option>
+            </select>
+            <input type="date" id="date">
+            <button onclick="addTransaction()">Add</button>
+        </div>
+
+        <!-- Filters -->
+        <div class="filter-section">
+            <label>From: <input type="date" id="startDate"></label>
+            <label>To: <input type="date" id="endDate"></label>
+            <label>Category:
+                <select id="categoryFilter">
+                    <option value="all">All</option>
+                </select>
+            </label>
+            <button onclick="filterTransactions()">Filter</button>
+        </div>
+
+        <!-- Table -->
+        <table>
+            <thead>
+                <tr>
+                    <th>Description</th>
+                    <th>Amount</th>
+                    <th>Type</th>
+                    <th>Category</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+            <tbody id="transaction-table"></tbody>
+        </table>
+
+        <!-- Charts -->
+        <div class="charts">
+            <canvas id="budgetChart"></canvas>
+            <canvas id="trendChart"></canvas>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
