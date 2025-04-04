@@ -1,0 +1,7002 @@
+[
+    {
+        "Description": "Freelance",
+        "Amount": 6220.44,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-28"
+    },
+    {
+        "Description": "Business",
+        "Amount": 1940.41,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-22"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 866.38,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-02-08"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 5940.08,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-07"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 9606.62,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-16"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 2556.98,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-10"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 5220.16,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-08"
+    },
+    {
+        "Description": "Business",
+        "Amount": 2099.13,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-22"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 749.49,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-21"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 1044.75,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-16"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1646.41,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-03-06"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1513.75,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-02-01"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 102.99,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 14.82,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-13"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 155.26,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-18"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 2406.64,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Business",
+        "Amount": 1114.95,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-01"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1068.66,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-06"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 5549.61,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-05"
+    },
+    {
+        "Description": "Business",
+        "Amount": 1407.54,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-31"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 781.18,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-22"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 2500.62,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-19"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 4770.66,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-01"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 6574.1,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-11"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 626.24,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1400.62,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-02-15"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 8042.54,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-11"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 333.11,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-18"
+    },
+    {
+        "Description": "Other",
+        "Amount": 150.23,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-07"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 8116.54,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-23"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 928.4,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-03"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 548.71,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-03"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1371.61,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-29"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 766.65,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-26"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 679.64,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-02-12"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1077.1,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-15"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 516.03,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-02-01"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 2514.97,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-12"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1059.5,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-05"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 7383.31,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-13"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1145.37,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-03-13"
+    },
+    {
+        "Description": "Other",
+        "Amount": 280.82,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-25"
+    },
+    {
+        "Description": "Food",
+        "Amount": 589.85,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1629.65,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 256.31,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-26"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 8641.47,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 5638.64,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-02"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 8690.26,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-18"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 4347.65,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-19"
+    },
+    {
+        "Description": "Food",
+        "Amount": 787.73,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-21"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1823.42,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-20"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 458.3,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-21"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 272.34,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-10"
+    },
+    {
+        "Description": "Business",
+        "Amount": 4853.26,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-29"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 651.94,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-23"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 1140.93,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-24"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1067.0,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-08"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 9011.47,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-11"
+    },
+    {
+        "Description": "Food",
+        "Amount": 130.66,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-12"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 509.42,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-26"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 233.82,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-20"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 7214.49,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-12"
+    },
+    {
+        "Description": "Food",
+        "Amount": 433.84,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-17"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1006.07,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-02-20"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1814.45,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-02-04"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 972.93,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-21"
+    },
+    {
+        "Description": "Business",
+        "Amount": 3818.14,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-12"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1872.76,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-01-16"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 3163.27,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-04"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 9344.15,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-24"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 6333.31,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-21"
+    },
+    {
+        "Description": "Business",
+        "Amount": 2123.53,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-14"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1102.65,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-02-01"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 352.5,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-03-09"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 426.94,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-03-02"
+    },
+    {
+        "Description": "Food",
+        "Amount": 902.47,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-24"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 4403.31,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-04"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1812.1,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-04"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 549.84,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-13"
+    },
+    {
+        "Description": "Food",
+        "Amount": 477.0,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-01"
+    },
+    {
+        "Description": "Food",
+        "Amount": 920.37,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-26"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 217.64,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-20"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 455.16,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-18"
+    },
+    {
+        "Description": "Business",
+        "Amount": 146.12,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Other",
+        "Amount": 883.57,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-27"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 3103.92,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-03"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 9269.9,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-25"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 1420.33,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-01"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 117.22,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-17"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 9345.99,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-15"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 5028.27,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-15"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 6880.02,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-25"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 4563.51,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-27"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 753.43,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-05"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 5661.84,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-07"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1538.61,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-03-22"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 750.52,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-02"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 704.61,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-01-23"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 56.55,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-03"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1643.78,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-03-20"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 5906.07,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-26"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1171.69,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-02-20"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 721.21,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-02-25"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 8614.08,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-29"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 8859.13,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-27"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1836.47,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-12"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 4229.17,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-27"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 909.12,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-16"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 350.91,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-01"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 4454.76,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-10"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 235.52,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-15"
+    },
+    {
+        "Description": "Business",
+        "Amount": 8834.86,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-18"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1636.8,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-03-30"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 246.42,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-20"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 918.98,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-22"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 3181.49,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-26"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1716.18,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-29"
+    },
+    {
+        "Description": "Business",
+        "Amount": 331.15,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-25"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 747.1,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-13"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 1840.89,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-13"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1307.07,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-14"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1873.62,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-02"
+    },
+    {
+        "Description": "Food",
+        "Amount": 409.75,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-31"
+    },
+    {
+        "Description": "Business",
+        "Amount": 1672.86,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-18"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1226.86,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-31"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 4295.64,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-14"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 4298.3,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-13"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1845.82,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-20"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 2247.97,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-13"
+    },
+    {
+        "Description": "Food",
+        "Amount": 970.78,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-18"
+    },
+    {
+        "Description": "Business",
+        "Amount": 5466.15,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-02"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 6852.81,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-02"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1460.34,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-16"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 481.66,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-03-27"
+    },
+    {
+        "Description": "Business",
+        "Amount": 2947.12,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-19"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 9126.81,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-04"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 1172.07,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-08"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1746.02,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-05"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1792.43,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-29"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1915.23,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-26"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 9711.09,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-17"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 8359.63,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-17"
+    },
+    {
+        "Description": "Business",
+        "Amount": 5919.1,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-03"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 328.45,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-23"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 99.3,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-04-01"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 7232.34,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-02"
+    },
+    {
+        "Description": "Other",
+        "Amount": 905.92,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-11"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 7715.64,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-18"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 9554.58,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-05"
+    },
+    {
+        "Description": "Business",
+        "Amount": 967.7,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-30"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 7299.27,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-21"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 413.26,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-06"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1771.95,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-15"
+    },
+    {
+        "Description": "Other",
+        "Amount": 58.52,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-24"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 755.03,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-03-15"
+    },
+    {
+        "Description": "Business",
+        "Amount": 1274.19,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-08"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 3288.03,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-02"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 7517.31,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-14"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 7009.46,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-15"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 457.94,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-19"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 7.75,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-02-22"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 310.81,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-30"
+    },
+    {
+        "Description": "Food",
+        "Amount": 583.42,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-04"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 5094.0,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-12"
+    },
+    {
+        "Description": "Business",
+        "Amount": 9975.86,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-19"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 8567.67,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-27"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 246.52,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-03"
+    },
+    {
+        "Description": "Business",
+        "Amount": 3457.84,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-03"
+    },
+    {
+        "Description": "Business",
+        "Amount": 2273.35,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-16"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1970.49,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-21"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 4308.19,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-25"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 509.62,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-28"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1669.66,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-09"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 8848.44,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-14"
+    },
+    {
+        "Description": "Food",
+        "Amount": 878.91,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-24"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1809.32,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 307.07,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-03-15"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 842.36,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-25"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 482.28,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-03-30"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1952.56,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-03-22"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1058.63,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-03-03"
+    },
+    {
+        "Description": "Other",
+        "Amount": 298.11,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-24"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 8895.16,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-03"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 479.81,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-18"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1790.41,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-18"
+    },
+    {
+        "Description": "Other",
+        "Amount": 704.44,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-22"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 264.01,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-25"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 680.14,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-02-25"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 531.41,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-03-28"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 442.58,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-21"
+    },
+    {
+        "Description": "Other",
+        "Amount": 684.33,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-04-01"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 2196.02,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-30"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 7397.47,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-19"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 914.53,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-28"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1849.87,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-27"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 1033.31,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-10"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 2632.7,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-12"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1998.02,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-03-17"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1294.46,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-03-10"
+    },
+    {
+        "Description": "Business",
+        "Amount": 2792.92,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-10"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 663.76,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-23"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1891.95,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 236.76,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 691.1,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-07"
+    },
+    {
+        "Description": "Other",
+        "Amount": 792.73,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-08"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1323.91,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-03-03"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1590.17,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-02-14"
+    },
+    {
+        "Description": "Business",
+        "Amount": 3466.0,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-10"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 8688.64,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-08"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 958.18,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-18"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1454.85,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-01-19"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 6177.66,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-17"
+    },
+    {
+        "Description": "Business",
+        "Amount": 1234.59,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-01"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 769.59,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-07"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 5575.3,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-07"
+    },
+    {
+        "Description": "Other",
+        "Amount": 341.8,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-24"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 659.19,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-08"
+    },
+    {
+        "Description": "Business",
+        "Amount": 5769.13,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-04-01"
+    },
+    {
+        "Description": "Other",
+        "Amount": 16.86,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 6870.99,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-27"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 933.59,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-07"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 1159.57,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-01"
+    },
+    {
+        "Description": "Business",
+        "Amount": 9170.89,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-06"
+    },
+    {
+        "Description": "Business",
+        "Amount": 8305.18,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-06"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 3899.0,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-13"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1053.3,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-04"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 8468.05,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-11"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 3024.49,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-29"
+    },
+    {
+        "Description": "Business",
+        "Amount": 8146.82,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-03"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 594.93,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-06"
+    },
+    {
+        "Description": "Food",
+        "Amount": 476.28,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-21"
+    },
+    {
+        "Description": "Business",
+        "Amount": 7381.23,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-05"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 874.65,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-25"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 5756.53,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-08"
+    },
+    {
+        "Description": "Business",
+        "Amount": 261.27,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-27"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 612.93,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-23"
+    },
+    {
+        "Description": "Business",
+        "Amount": 4020.93,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-03"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 344.8,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-25"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 199.17,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-02-08"
+    },
+    {
+        "Description": "Business",
+        "Amount": 330.9,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-02"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1622.36,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-15"
+    },
+    {
+        "Description": "Food",
+        "Amount": 763.61,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-16"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 2763.95,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-29"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1735.76,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-20"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 3408.71,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-29"
+    },
+    {
+        "Description": "Other",
+        "Amount": 511.78,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-03"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1929.42,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-21"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 301.79,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-07"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1035.09,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-03"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 227.0,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-03-25"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1802.55,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-03-10"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 838.86,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-25"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 7413.2,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-20"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1681.24,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-25"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 9626.51,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-28"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 820.13,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-19"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 8618.98,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-08"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1176.13,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-02-20"
+    },
+    {
+        "Description": "Other",
+        "Amount": 671.43,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-20"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 9688.58,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-02"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1704.42,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-03-12"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 670.85,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-29"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 1632.1,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-08"
+    },
+    {
+        "Description": "Other",
+        "Amount": 337.43,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-07"
+    },
+    {
+        "Description": "Business",
+        "Amount": 2813.85,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-13"
+    },
+    {
+        "Description": "Business",
+        "Amount": 3063.21,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-22"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 124.24,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-04"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 5882.99,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-04"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 3241.81,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 9656.25,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-26"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 1198.99,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-19"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 868.21,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-29"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 5200.32,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-30"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1972.11,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-06"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1973.09,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-17"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1176.78,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-27"
+    },
+    {
+        "Description": "Business",
+        "Amount": 67.44,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-13"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 2777.48,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-25"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 5535.35,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-19"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 1781.27,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-04"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 984.16,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-03-08"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 3686.96,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-06"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1883.38,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-29"
+    },
+    {
+        "Description": "Business",
+        "Amount": 1654.05,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-24"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 7026.9,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-15"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1495.02,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Food",
+        "Amount": 19.78,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-28"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1469.33,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-27"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 1638.82,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-25"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 280.25,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-30"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1697.24,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-25"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 1445.38,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-19"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1324.02,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-09"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 7313.44,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 7569.18,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-31"
+    },
+    {
+        "Description": "Business",
+        "Amount": 4221.69,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-27"
+    },
+    {
+        "Description": "Business",
+        "Amount": 6864.21,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-23"
+    },
+    {
+        "Description": "Food",
+        "Amount": 465.96,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-10"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 1648.89,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-04-01"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1315.44,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-01-07"
+    },
+    {
+        "Description": "Food",
+        "Amount": 452.32,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-12"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1357.01,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-27"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 7042.56,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-22"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 5312.29,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-26"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 753.47,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-12"
+    },
+    {
+        "Description": "Food",
+        "Amount": 990.27,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-03"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 242.29,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-26"
+    },
+    {
+        "Description": "Other",
+        "Amount": 488.32,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-04-01"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 1669.17,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-27"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1473.5,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-03-31"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 3717.12,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-14"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 85.78,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-26"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 978.54,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-03-19"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 8773.17,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-17"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 6307.32,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-20"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 710.61,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-27"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 864.25,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-08"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 3952.42,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-21"
+    },
+    {
+        "Description": "Other",
+        "Amount": 382.34,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-16"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 42.42,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-06"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 8698.37,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-15"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 779.1,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-02-04"
+    },
+    {
+        "Description": "Business",
+        "Amount": 5877.25,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-19"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1721.88,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-09"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 580.1,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-25"
+    },
+    {
+        "Description": "Business",
+        "Amount": 654.33,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-06"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1693.93,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-06"
+    },
+    {
+        "Description": "Business",
+        "Amount": 9752.1,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-05"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1080.77,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-24"
+    },
+    {
+        "Description": "Business",
+        "Amount": 6446.43,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-12"
+    },
+    {
+        "Description": "Other",
+        "Amount": 263.71,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-08"
+    },
+    {
+        "Description": "Food",
+        "Amount": 297.78,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-25"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 5115.38,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-18"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1348.18,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-27"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 60.11,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-26"
+    },
+    {
+        "Description": "Other",
+        "Amount": 350.13,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-12"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 7694.35,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-22"
+    },
+    {
+        "Description": "Business",
+        "Amount": 1648.59,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-07"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 215.67,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-25"
+    },
+    {
+        "Description": "Business",
+        "Amount": 8655.07,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-30"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 9382.99,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-27"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 8558.61,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-23"
+    },
+    {
+        "Description": "Business",
+        "Amount": 2994.62,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-01"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 966.33,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-23"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1833.81,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-02-20"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 16.02,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-26"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 1926.4,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1087.32,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-12"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 9737.87,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-30"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 901.24,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-25"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 6313.31,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-30"
+    },
+    {
+        "Description": "Other",
+        "Amount": 109.95,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-24"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 8893.23,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-10"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 929.7,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-24"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 140.83,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-09"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 6839.93,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-07"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 152.25,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-04"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 630.37,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-01-27"
+    },
+    {
+        "Description": "Food",
+        "Amount": 275.64,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-06"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 571.88,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-16"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 793.93,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-07"
+    },
+    {
+        "Description": "Business",
+        "Amount": 1126.38,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-01"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1801.91,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-02-06"
+    },
+    {
+        "Description": "Food",
+        "Amount": 433.57,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-22"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 518.17,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-31"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 544.55,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-10"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 2782.85,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-20"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1380.14,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-05"
+    },
+    {
+        "Description": "Food",
+        "Amount": 312.14,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-18"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 844.57,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-03-20"
+    },
+    {
+        "Description": "Food",
+        "Amount": 862.03,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-26"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 2163.95,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-11"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 9734.42,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-16"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1879.79,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-07"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1530.26,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-25"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1350.63,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-23"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 8394.07,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-10"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 7490.99,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-03"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1629.38,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-26"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 839.32,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-13"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 4255.86,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 4663.52,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-14"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1037.6,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-30"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1330.93,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-02-08"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 123.73,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-08"
+    },
+    {
+        "Description": "Business",
+        "Amount": 4306.58,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-28"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 26.24,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-01-16"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 506.51,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-10"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 7571.64,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-13"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 3949.07,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-09"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 2117.55,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-26"
+    },
+    {
+        "Description": "Business",
+        "Amount": 2371.52,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-31"
+    },
+    {
+        "Description": "Food",
+        "Amount": 239.85,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-01"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 993.14,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-02-14"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 889.16,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-15"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 5043.39,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-18"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1277.0,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-06"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 914.67,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-03-17"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 1175.62,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-27"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1944.4,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-02-11"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 6989.53,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-20"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 49.21,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1603.61,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-17"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 9104.39,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-24"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1705.29,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-07"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1353.14,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-29"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 9886.16,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-01"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 7001.5,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-22"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 6000.91,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-29"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 6701.3,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-18"
+    },
+    {
+        "Description": "Food",
+        "Amount": 262.49,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-15"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 658.29,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1595.28,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-15"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 423.0,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-08"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 74.8,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-03-23"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1716.82,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-03-19"
+    },
+    {
+        "Description": "Food",
+        "Amount": 684.94,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-16"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 4686.87,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-18"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 9073.43,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-31"
+    },
+    {
+        "Description": "Other",
+        "Amount": 217.65,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-25"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 4756.31,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-13"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 2363.26,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-06"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 4509.35,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-10"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1102.84,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-25"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 27.35,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-05"
+    },
+    {
+        "Description": "Other",
+        "Amount": 614.53,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-05"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 3856.14,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-12"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 6466.21,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Business",
+        "Amount": 318.52,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-20"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 3170.87,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-10"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 2993.71,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-09"
+    },
+    {
+        "Description": "Business",
+        "Amount": 5054.23,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-05"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 2818.86,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-21"
+    },
+    {
+        "Description": "Business",
+        "Amount": 4318.37,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-02"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1486.66,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-13"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 615.08,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-02-20"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 4454.82,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-07"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1246.97,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-28"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 452.91,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-20"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1082.06,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-08"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1994.47,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-01-23"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 472.11,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-03-09"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1905.91,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-03-04"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 7321.53,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-23"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 848.38,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-24"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1168.4,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-26"
+    },
+    {
+        "Description": "Food",
+        "Amount": 380.73,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-31"
+    },
+    {
+        "Description": "Other",
+        "Amount": 224.58,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-25"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 479.13,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-02"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 577.72,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-07"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 7723.55,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-14"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 5168.28,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-16"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1385.72,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-28"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 235.04,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-02-14"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 8532.95,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-19"
+    },
+    {
+        "Description": "Business",
+        "Amount": 636.76,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-13"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1974.77,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-05"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 3559.83,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-02"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 8791.97,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-28"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 521.57,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 119.12,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1564.57,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-24"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 8768.28,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-08"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1023.56,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-26"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 709.02,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-01-09"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 4360.75,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-07"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 988.87,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-26"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 6030.33,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-04"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 8518.19,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-01"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 9609.58,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-13"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 885.7,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-06"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 875.15,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-30"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 2845.2,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 8982.33,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-13"
+    },
+    {
+        "Description": "Other",
+        "Amount": 277.66,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-26"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 26.47,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 5291.44,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-19"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1758.5,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-03"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1009.13,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-19"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 2876.35,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-15"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 4505.35,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-08"
+    },
+    {
+        "Description": "Business",
+        "Amount": 8595.55,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-07"
+    },
+    {
+        "Description": "Business",
+        "Amount": 2090.42,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-03"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 7000.33,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-09"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 9702.59,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-16"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 321.22,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 9568.14,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-23"
+    },
+    {
+        "Description": "Other",
+        "Amount": 151.97,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-31"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 3839.07,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-08"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 9877.98,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-03"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 786.08,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-03-17"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 9509.71,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-04-01"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1801.7,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-14"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 4967.28,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 1284.3,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-18"
+    },
+    {
+        "Description": "Business",
+        "Amount": 340.61,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-24"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 6046.8,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-11"
+    },
+    {
+        "Description": "Food",
+        "Amount": 373.33,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-05"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 2157.55,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-12"
+    },
+    {
+        "Description": "Business",
+        "Amount": 7890.08,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-06"
+    },
+    {
+        "Description": "Business",
+        "Amount": 8597.95,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-04-01"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 7947.86,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-26"
+    },
+    {
+        "Description": "Business",
+        "Amount": 4204.42,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-15"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 3488.32,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-04"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1534.67,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-26"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 7549.12,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-28"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 8495.56,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-15"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 1496.6,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-29"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 5790.81,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 691.97,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-06"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 8269.7,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-30"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 1929.36,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-23"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 2411.8,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-14"
+    },
+    {
+        "Description": "Food",
+        "Amount": 191.78,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-02"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1407.56,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-23"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1607.5,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-02-05"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1945.3,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-03-15"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 5076.69,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-22"
+    },
+    {
+        "Description": "Food",
+        "Amount": 580.8,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-03"
+    },
+    {
+        "Description": "Business",
+        "Amount": 229.88,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-05"
+    },
+    {
+        "Description": "Business",
+        "Amount": 8355.23,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-15"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1821.01,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-02"
+    },
+    {
+        "Description": "Business",
+        "Amount": 3014.27,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-06"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 4578.45,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-13"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1990.82,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-03-01"
+    },
+    {
+        "Description": "Food",
+        "Amount": 238.28,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-15"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 25.74,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-30"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 2371.8,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-03"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 6151.07,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-10"
+    },
+    {
+        "Description": "Business",
+        "Amount": 4863.59,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-27"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 156.65,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-11"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 810.99,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-08"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 922.56,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-02-26"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1899.83,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-18"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 9185.51,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-24"
+    },
+    {
+        "Description": "Other",
+        "Amount": 531.07,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-05"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 699.86,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-07"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1168.96,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-08"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 377.13,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-19"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1685.27,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-02-02"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 997.97,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-08"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 7202.84,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Other",
+        "Amount": 391.56,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-05"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1916.47,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-02"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1341.38,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-02-03"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 2302.28,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-23"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1441.7,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-02-14"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1481.48,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-08"
+    },
+    {
+        "Description": "Business",
+        "Amount": 1859.89,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-20"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 661.89,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-13"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1276.09,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-20"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 8429.84,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-02"
+    },
+    {
+        "Description": "Other",
+        "Amount": 471.97,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-31"
+    },
+    {
+        "Description": "Business",
+        "Amount": 5849.09,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-21"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1038.05,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-24"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1368.47,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-21"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 286.24,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-13"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 191.77,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-03-30"
+    },
+    {
+        "Description": "Food",
+        "Amount": 499.38,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-01"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 886.45,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-31"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1449.15,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-05"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 536.9,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-17"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 7350.4,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-30"
+    },
+    {
+        "Description": "Business",
+        "Amount": 9056.86,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-18"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 421.06,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-03-01"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 519.93,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-03-24"
+    },
+    {
+        "Description": "Business",
+        "Amount": 9056.03,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-08"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 2256.8,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-10"
+    },
+    {
+        "Description": "Business",
+        "Amount": 9341.47,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-07"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1386.19,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-24"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1613.43,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-13"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1250.5,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-01-14"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 450.31,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-03-15"
+    },
+    {
+        "Description": "Business",
+        "Amount": 8514.55,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-02"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1912.73,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-03-18"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 7144.51,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-07"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1647.54,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-21"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1826.41,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-04"
+    },
+    {
+        "Description": "Business",
+        "Amount": 4506.06,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 34.58,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-27"
+    },
+    {
+        "Description": "Business",
+        "Amount": 3807.58,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-04"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 2220.8,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-14"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 8278.33,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-28"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 4976.97,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 3670.83,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-28"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 7917.92,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-05"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 8877.29,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-10"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1357.81,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-02-19"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 2033.04,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-07"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1094.27,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-01"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1464.16,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-01-30"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1217.74,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-17"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1627.22,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-24"
+    },
+    {
+        "Description": "Other",
+        "Amount": 634.14,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-24"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 5159.17,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-07"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1439.46,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-09"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 3230.49,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-26"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 756.96,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-27"
+    },
+    {
+        "Description": "Other",
+        "Amount": 52.41,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-06"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1538.5,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-05"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 617.54,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-02-18"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 521.65,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-03"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1019.63,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-02-13"
+    },
+    {
+        "Description": "Business",
+        "Amount": 1422.15,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-18"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1635.03,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-02-21"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 7397.06,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-24"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 836.56,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-20"
+    },
+    {
+        "Description": "Food",
+        "Amount": 417.85,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-06"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 9903.37,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-15"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 806.83,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-02-19"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1398.57,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-23"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1230.71,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-03-09"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 365.29,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-02-22"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 113.23,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-15"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 1571.47,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-03"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1384.9,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-13"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 505.65,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-02-13"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 711.53,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-04"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 641.07,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Food",
+        "Amount": 992.35,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-16"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 3697.0,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-06"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1310.82,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 7222.56,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-22"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1177.97,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-04"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1281.32,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-01-12"
+    },
+    {
+        "Description": "Business",
+        "Amount": 977.85,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-04"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 3180.95,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-25"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 4250.71,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-22"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 2956.49,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-03"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 8232.52,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-13"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1388.63,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-03-17"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1789.52,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-02-24"
+    },
+    {
+        "Description": "Business",
+        "Amount": 2698.08,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-08"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 8551.17,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-20"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 457.28,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-22"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1864.87,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-02-05"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 4582.09,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-10"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 2030.54,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-05"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 374.8,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-01-24"
+    },
+    {
+        "Description": "Business",
+        "Amount": 4637.79,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-18"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 7502.67,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-08"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1370.82,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-09"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 5002.87,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-27"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 1115.36,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-19"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 9790.99,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-10"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1034.66,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-01"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 7880.23,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-09"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 342.76,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-02-19"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 9316.58,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-24"
+    },
+    {
+        "Description": "Other",
+        "Amount": 131.64,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 1411.84,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-10"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 1223.28,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-30"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1263.41,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-07"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1687.99,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Other",
+        "Amount": 240.52,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-05"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 9183.59,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-27"
+    },
+    {
+        "Description": "Business",
+        "Amount": 5866.51,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-12"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 6124.64,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-11"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 523.97,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-13"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 8847.96,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-17"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 2080.41,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-22"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 459.39,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-21"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 593.73,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-10"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 8603.16,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-15"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 4990.83,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-28"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 2949.22,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-16"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 2171.84,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-13"
+    },
+    {
+        "Description": "Other",
+        "Amount": 750.45,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-24"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 3145.0,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-11"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 501.59,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-23"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1163.79,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-01-13"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 863.09,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-03-16"
+    },
+    {
+        "Description": "Business",
+        "Amount": 9318.79,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-18"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1972.99,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-06"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 3049.81,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-15"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 2272.23,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-27"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 6099.09,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-14"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 1441.57,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 5930.31,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-04"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 982.66,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1166.22,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Business",
+        "Amount": 3773.89,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-03"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 6021.52,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-20"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1078.68,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-02-07"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 118.23,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-11"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 2709.14,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-20"
+    },
+    {
+        "Description": "Business",
+        "Amount": 4000.82,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-20"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 621.84,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-03"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 2793.6,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-22"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 4974.36,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-02"
+    },
+    {
+        "Description": "Other",
+        "Amount": 516.62,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-17"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1079.08,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Business",
+        "Amount": 1168.74,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-31"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 7907.88,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-26"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 44.98,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-01"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 542.27,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-27"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 846.02,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-11"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 7408.97,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-19"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 321.19,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-02"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 3253.91,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-03"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1136.02,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-26"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 935.85,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-19"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1882.07,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 3500.36,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-20"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1851.09,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-19"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1548.39,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-04"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 6595.55,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-01"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 5923.24,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-02"
+    },
+    {
+        "Description": "Business",
+        "Amount": 9118.2,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-16"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 662.96,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-03-28"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1380.03,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-27"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1820.94,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-21"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 1324.79,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-26"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 5486.03,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-11"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 5477.02,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-22"
+    },
+    {
+        "Description": "Food",
+        "Amount": 458.97,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-01"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 532.12,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-15"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 740.13,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-21"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 627.39,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-01"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1556.83,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-29"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1133.93,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 3117.51,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-05"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 3245.89,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-15"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 4605.56,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-10"
+    },
+    {
+        "Description": "Other",
+        "Amount": 141.31,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-30"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 449.82,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-02-17"
+    },
+    {
+        "Description": "Business",
+        "Amount": 9472.75,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-13"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 3255.11,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-31"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1888.19,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-28"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 7854.28,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-12"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 8511.87,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-24"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 73.56,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-20"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 4444.0,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-17"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1424.19,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-03-30"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 630.94,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 5996.34,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-03"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 5956.66,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-20"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 151.85,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-06"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 4763.79,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-28"
+    },
+    {
+        "Description": "Business",
+        "Amount": 8635.07,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-15"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1391.77,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-19"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 5987.56,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-04"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1374.8,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-04"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 281.67,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-14"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1655.42,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-12"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 5748.18,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-15"
+    },
+    {
+        "Description": "Other",
+        "Amount": 302.02,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-16"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 183.31,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 7642.05,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-04-01"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 769.48,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-03-03"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 4885.16,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-15"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 8350.1,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-06"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1356.39,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-02-23"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1646.27,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-24"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 8758.67,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-11"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 6188.82,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-11"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 2886.35,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-06"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 78.5,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-03-14"
+    },
+    {
+        "Description": "Other",
+        "Amount": 178.02,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-10"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 1841.76,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-31"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 9396.99,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-07"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 5016.96,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-03"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 8186.28,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-08"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 5816.48,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-20"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 607.22,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-27"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1384.05,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-08"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1197.9,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-27"
+    },
+    {
+        "Description": "Business",
+        "Amount": 6254.2,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-04"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1107.37,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-03-25"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 2736.04,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-23"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 797.97,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-31"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 4283.33,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-10"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 3238.54,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-04"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 615.98,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-22"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 5656.71,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-03"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 7125.67,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-23"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 6326.43,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 390.32,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-05"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 8099.79,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-12"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1405.52,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-01-13"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 2316.42,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-19"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1794.51,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 294.99,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-15"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1687.74,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-03-14"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 9520.93,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-05"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1112.61,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-03-09"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 4296.31,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-07"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1944.1,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-18"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 368.02,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-18"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 815.55,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-03-16"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 973.84,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-02-27"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 357.67,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-28"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 7340.33,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1752.45,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-04"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 1183.26,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-21"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 7915.56,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-20"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 452.2,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-21"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 8091.92,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-25"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1741.3,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-28"
+    },
+    {
+        "Description": "Business",
+        "Amount": 164.02,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-26"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1669.02,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-03-06"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 308.62,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-01-27"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 196.84,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-05"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1560.67,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-03-01"
+    },
+    {
+        "Description": "Business",
+        "Amount": 6718.86,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-30"
+    },
+    {
+        "Description": "Business",
+        "Amount": 5896.98,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-08"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 8920.77,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-07"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 7472.56,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-22"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 6056.99,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-07"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 821.0,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-24"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1708.12,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-02-18"
+    },
+    {
+        "Description": "Other",
+        "Amount": 301.19,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-17"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1028.48,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-02-05"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 9712.4,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-20"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 171.99,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-07"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1551.81,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-02-18"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1442.01,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-20"
+    },
+    {
+        "Description": "Food",
+        "Amount": 318.23,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-11"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 2869.38,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Business",
+        "Amount": 3664.28,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-17"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 6412.26,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-11"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1262.54,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-02-03"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 2908.6,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-24"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 802.14,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-10"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 9853.1,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-22"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 3190.34,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-19"
+    },
+    {
+        "Description": "Business",
+        "Amount": 4154.66,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-13"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 5953.36,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-12"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 6918.13,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-12"
+    },
+    {
+        "Description": "Business",
+        "Amount": 9665.05,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-05"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 5105.88,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-06"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1065.02,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-02-17"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 664.36,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-01"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 299.03,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Business",
+        "Amount": 5826.07,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-22"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1316.1,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-03-19"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 9960.85,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-13"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1607.2,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-03-18"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1803.42,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-24"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 4580.95,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-01"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1368.04,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-11"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 141.3,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-12"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 1499.84,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-22"
+    },
+    {
+        "Description": "Business",
+        "Amount": 7062.76,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-04"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 6732.84,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-17"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1364.26,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-02-25"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1673.9,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-24"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 3403.93,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 3122.25,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-18"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 6816.71,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-02"
+    },
+    {
+        "Description": "Business",
+        "Amount": 8449.32,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-02"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 1041.85,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-31"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1408.94,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-03-17"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1308.33,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-01-02"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1443.15,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-08"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 679.25,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-24"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 427.79,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-28"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 28.24,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-18"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 7367.64,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-01"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 328.1,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-22"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 211.0,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-01"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1355.63,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-21"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 9765.17,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-13"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 8599.51,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-20"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 99.32,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-27"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 160.2,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-27"
+    },
+    {
+        "Description": "Business",
+        "Amount": 2391.82,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-14"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 9946.2,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-07"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 9213.42,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-21"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1513.3,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-13"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 460.64,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-04"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 7879.92,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-14"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 3088.14,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-01"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1808.96,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-02-22"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 1536.15,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-26"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 5027.85,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-14"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1783.71,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-01-19"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 8068.44,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-21"
+    },
+    {
+        "Description": "Business",
+        "Amount": 7390.31,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-27"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1244.32,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-27"
+    },
+    {
+        "Description": "Business",
+        "Amount": 1281.1,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-24"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 555.52,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-09"
+    },
+    {
+        "Description": "Food",
+        "Amount": 13.84,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-21"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1326.69,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-04"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1775.55,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-31"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1578.63,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-02-23"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 2157.51,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-12"
+    },
+    {
+        "Description": "Food",
+        "Amount": 965.83,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-02-28"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 1430.05,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-03"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 232.89,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-02"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 7295.94,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-23"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 1043.84,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-19"
+    },
+    {
+        "Description": "Business",
+        "Amount": 3101.78,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-26"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1366.7,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-01"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 43.47,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-01-09"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1196.94,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-05"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1821.79,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-17"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1310.62,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-13"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 2104.47,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-11"
+    },
+    {
+        "Description": "Business",
+        "Amount": 5540.54,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-21"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 2113.23,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-07"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 6876.02,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-02"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 479.71,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-01-16"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1366.0,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-25"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1448.76,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-06"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 7682.5,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-23"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 2711.57,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-06"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 4819.29,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-04"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1286.85,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-21"
+    },
+    {
+        "Description": "Business",
+        "Amount": 8793.51,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-30"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 6362.7,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-21"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1519.04,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-03"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 1164.41,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-11"
+    },
+    {
+        "Description": "Other",
+        "Amount": 516.49,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-02"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 3460.96,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-23"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 1650.6,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-09"
+    },
+    {
+        "Description": "Business",
+        "Amount": 7239.83,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-07"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1123.77,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-12"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 1181.08,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-19"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 3502.64,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-03"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1978.65,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-25"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 634.56,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-27"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 866.12,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-10"
+    },
+    {
+        "Description": "Other",
+        "Amount": 941.28,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-17"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 9566.06,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-24"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 5736.02,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-14"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 2438.59,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-07"
+    },
+    {
+        "Description": "Food",
+        "Amount": 471.67,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-23"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 6604.6,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-01"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 9028.59,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-08"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 985.4,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-22"
+    },
+    {
+        "Description": "Business",
+        "Amount": 4551.96,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-19"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 9337.61,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-03"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 8231.36,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-15"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 7572.39,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-24"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1449.81,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-01-05"
+    },
+    {
+        "Description": "Other",
+        "Amount": 427.55,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-13"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 7936.97,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-30"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1764.93,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-12"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 711.68,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-20"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 8673.28,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-12"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 4317.73,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-16"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 461.93,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-03-21"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1435.66,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-01-22"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 1255.88,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-05"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1373.23,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1628.85,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-18"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 9565.54,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-03-09"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1072.7,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-18"
+    },
+    {
+        "Description": "Business",
+        "Amount": 6429.49,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-11"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 5699.99,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-01-20"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 1213.33,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-02-06"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 7481.81,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-03"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1351.93,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-08"
+    },
+    {
+        "Description": "Business",
+        "Amount": 9927.95,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1432.41,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-02-04"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 899.14,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-31"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 4975.71,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-21"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 2197.85,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-11"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1110.58,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-01-24"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 2643.39,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-02-08"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 443.84,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-30"
+    },
+    {
+        "Description": "Business",
+        "Amount": 7470.7,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-19"
+    },
+    {
+        "Description": "Other",
+        "Amount": 938.29,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 211.3,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-03-10"
+    },
+    {
+        "Description": "Business",
+        "Amount": 5717.04,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-03-11"
+    },
+    {
+        "Description": "Other",
+        "Amount": 1374.65,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-01-29"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 7833.17,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-06"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 2875.41,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-02-28"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 3410.82,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-06"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 1200.03,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-26"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 2214.37,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-20"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 1165.82,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-27"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 3465.86,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-01-17"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1562.57,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-01-20"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 720.04,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 7707.61,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-02-19"
+    },
+    {
+        "Description": "Food",
+        "Amount": 1917.54,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-27"
+    },
+    {
+        "Description": "Business",
+        "Amount": 5690.47,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-06"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 2299.46,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-07"
+    },
+    {
+        "Description": "Business",
+        "Amount": 3867.78,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-02-09"
+    },
+    {
+        "Description": "Entertainment",
+        "Amount": 1453.73,
+        "Type": "expense",
+        "Category": "Entertainment",
+        "Date": "2025-02-13"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 1255.99,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-04"
+    },
+    {
+        "Description": "Healthcare",
+        "Amount": 735.82,
+        "Type": "expense",
+        "Category": "Healthcare",
+        "Date": "2025-02-23"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 1347.9,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-01-12"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 5487.94,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-24"
+    },
+    {
+        "Description": "Utilities",
+        "Amount": 1747.17,
+        "Type": "expense",
+        "Category": "Utilities",
+        "Date": "2025-03-01"
+    },
+    {
+        "Description": "Other",
+        "Amount": 988.54,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-03-18"
+    },
+    {
+        "Description": "Transport",
+        "Amount": 350.53,
+        "Type": "expense",
+        "Category": "Transport",
+        "Date": "2025-03-29"
+    },
+    {
+        "Description": "Food",
+        "Amount": 551.66,
+        "Type": "expense",
+        "Category": "Food",
+        "Date": "2025-01-04"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 1636.04,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-03-21"
+    },
+    {
+        "Description": "Investments",
+        "Amount": 5626.37,
+        "Type": "income",
+        "Category": "Investments",
+        "Date": "2025-03-24"
+    },
+    {
+        "Description": "Rent",
+        "Amount": 1548.71,
+        "Type": "expense",
+        "Category": "Rent",
+        "Date": "2025-01-28"
+    },
+    {
+        "Description": "Freelance",
+        "Amount": 5109.44,
+        "Type": "income",
+        "Category": "Freelance",
+        "Date": "2025-02-19"
+    },
+    {
+        "Description": "Shopping",
+        "Amount": 1631.29,
+        "Type": "expense",
+        "Category": "Shopping",
+        "Date": "2025-01-16"
+    },
+    {
+        "Description": "Salary",
+        "Amount": 4178.03,
+        "Type": "income",
+        "Category": "Salary",
+        "Date": "2025-01-02"
+    },
+    {
+        "Description": "Other",
+        "Amount": 538.56,
+        "Type": "expense",
+        "Category": "Other",
+        "Date": "2025-02-25"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 4844.52,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-13"
+    },
+    {
+        "Description": "Bonus",
+        "Amount": 7053.81,
+        "Type": "income",
+        "Category": "Bonus",
+        "Date": "2025-03-09"
+    },
+    {
+        "Description": "Business",
+        "Amount": 5046.8,
+        "Type": "income",
+        "Category": "Business",
+        "Date": "2025-01-04"
+    }
+]
